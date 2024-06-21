@@ -1,0 +1,40 @@
+#One_Piece_logo{
+    width: 800px;
+    height: 400px;
+}
+
+body{
+    text-align: center;
+}
+
+img{
+    width: 700px;
+    height: 1400px;
+}
+
+.crew{
+    display: inline;
+}
+
+p{
+    font-size: 50px;
+    margin-bottom:1px;
+}
+
+#mycarousel{
+    background-color: black;
+}
+
+#mycarousel img{
+    margin-top: 35px;
+}
+
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.carousel-indicators {
+    margin-bottom: 50px;
+    border-color: black;
+}
